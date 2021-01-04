@@ -1,1 +1,1 @@
-type something
+something
