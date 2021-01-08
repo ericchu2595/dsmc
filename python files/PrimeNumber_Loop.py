@@ -1,4 +1,4 @@
-n=int(input('enter a number greater than 1. '))
+n=int(input('Enter a number greater than 1. We will be checking if your number is prime. '))
 Match=True
 
 for num in range (2,n):
