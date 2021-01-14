@@ -1,6 +1,6 @@
 ###
 # This script creates the same type of plot as basic1.py,
-# but in Potly. Note that it creates an .html file!
+# but in Potly. Note that it creates an .html file!!
 ######
 
 import numpy as np
